@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hari Pertama</string>
+    <string name="bahasa_indonesia">Bahasa : Indonesia</string>
+    <string name="instagram">INSTAGRAM</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="lupa_password_silahkan_login">Lupa password ? <b>Silahkan Klik</b></string>
+    <string name="login">Login</string>
+    <string name="OR">OR</string>
+</resources>
